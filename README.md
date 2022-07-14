@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Hobbies: Practice yoga, program, meditate, play Volleyball and study other languages
 
-![picasion com_8fa619172e060433700304dc406d833c](https://user-images.githubusercontent.com/104799194/178866304-3fc72b8e-8540-43d2-8417-dcd8b0b3a378.gif)
+![picasion com_df640ed661db9f98c81d0cdab2479bd1](https://user-images.githubusercontent.com/104799194/178885247-6d5aa83d-8dfa-4c2e-ae66-5b4639258560.gif)
 
 <div>
 <a href="https://github.com/math180">
