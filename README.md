@@ -1,16 +1,17 @@
- Hi there, I am Matheus 👋🏻
+ ## Hi there, I am Matheus 👋🏻
 
 - 🔭 I’m currently open to work
 - 🌱 I’m learning JavaScript
-- 📫 How to reach me: matheusaraujo.lopes02092016@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Hobbies: Practice yoga, program, meditate, play Volleyball and study other languages
 
+![picasion com_8fa619172e060433700304dc406d833c](https://user-images.githubusercontent.com/104799194/178866304-3fc72b8e-8540-43d2-8417-dcd8b0b3a378.gif)
+
 <div>
 <a href="https://github.com/math180">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=math180&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=math180&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math180&layout=compact&langs_count=16&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math180&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,9 +25,5 @@
 <a href="https://www.instagram.com/thewmath/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
  <a href="mailto:matheusaraujo.lopes02092016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
-
-![picasion com_8fa619172e060433700304dc406d833c](https://user-images.githubusercontent.com/104799194/178866304-3fc72b8e-8540-43d2-8417-dcd8b0b3a378.gif)
-
-##
 
 ![Snake animation](https://github.com/math180/math180/blob/output/github-contribution-grid-snake.svg)
