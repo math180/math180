@@ -26,3 +26,7 @@
 </div>
 
 ![picasion com_8fa619172e060433700304dc406d833c](https://user-images.githubusercontent.com/104799194/178866304-3fc72b8e-8540-43d2-8417-dcd8b0b3a378.gif)
+
+##
+
+![Snake animation](https://github.com/math180/math180/blob/output/github-contribution-grid-snake.svg)
