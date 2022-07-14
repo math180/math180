@@ -17,7 +17,6 @@
 <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="right" alt="Math-gif" height="30" width="40" src="<img src="picasion.com_8fa619172e060433700304dc406d833c.gif" />
 </div>
 <br>
 <div>
@@ -25,3 +24,5 @@
 <a href="https://www.instagram.com/thewmath/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
  <a href="mailto:matheusaraujo.lopes02092016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
+
+![picasion com_8fa619172e060433700304dc406d833c](https://user-images.githubusercontent.com/104799194/178866304-3fc72b8e-8540-43d2-8417-dcd8b0b3a378.gif)
