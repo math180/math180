@@ -8,20 +8,20 @@
 
 <div>
 <a href="https://github.com/math180">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=math180&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=math180&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math180&layout=compact&langs_count=16&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math180&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="right" alt="Math-gif" height="30" width="40" src="<img src="picasion.com_8fa619172e060433700304dc406d833c.gif" />
 </div>
 <br>
 <div>
+<a href="https://www.linkedin.com/in/matheus-lopes-b4305b231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 <a href="https://www.instagram.com/thewmath/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
-
- <a href="https://www.linkedin.com/in/matheus-lopes-b4305b231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-
+ <a href="mailto:matheusaraujo.lopes02092016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
