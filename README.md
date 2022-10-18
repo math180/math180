@@ -1,7 +1,7 @@
  ## Hi there, I am Matheus 👋🏻
 
 - 🔭 I’m currently open to work
-- 🌱 I’m learning JavaScript
+- 🌱 I’m learning React RTL
 - 😄 Pronouns: he/him
 - ⚡ Hobbies: Practice yoga, program, meditate, play Volleyball and study other languages
 
